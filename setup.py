@@ -31,7 +31,7 @@ setuptools.setup(
         "PyMySQL==1.1.1",
         "mysql-connector-python==9.1.0",
         "boto3==1.26.72",
-        "requests==2.32.2",
+        "requests==2.32.4",
         "environs==9.5.0",
     ],
 )
