@@ -24,7 +24,7 @@ setuptools.setup(
     python_requires=">=3.10",
     # Core runtime dependencies needed by the package - strict versions
     install_requires=[
-        "Django==4.2.16",
+        "Django==4.2.25",
         "djangorestframework==3.15.2",
         "django-cors-headers==3.13.0",
         "mysqlclient==2.2.1",
